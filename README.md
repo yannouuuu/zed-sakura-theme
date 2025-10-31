@@ -1,1 +1,0 @@
-# zed-sakura-theme
